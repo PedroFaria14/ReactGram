@@ -1,0 +1,39 @@
+#Card-Register,#Card-Login{
+  background-color:rgb(28, 28, 28,0.9);
+  border-radius: 25px;
+  height: 423px;
+  padding: 1rem;
+  margin-top: 4rem;
+  box-shadow: 3px 4px 1px 1px black;
+}
+
+#Card-Register h2,
+#Card-Login h2 {
+text-align: center;
+font-size: 2.1em;
+margin-top: 0;
+}
+
+.subtitle {
+font-weight: bold;
+color: #999;
+margin-bottom: 1.5em;
+}
+
+#Card-Login form,
+#Card-Register form {
+padding-bottom: 1.5em;
+margin-bottom: 1.5em;
+border-bottom: 1px solid #363636;
+}
+
+#Card-Login p,
+#Card-Register p {
+text-align: center;
+}
+
+#Card-Login p a,
+#Card-Register p a {
+font-weight: bold;
+color: #0094f6;
+}
